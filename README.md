@@ -33,7 +33,7 @@
 
 ![screenshot](https://github.com/EekSapi/Recipe-Page/blob/8b7efa26605ce671acc2d3a27e476c750cbf23d6/Screenshot.jpg)
 
-- Where can I see your demo?
+- Checkout my demo project on <a href="https://keen-meringue-c019f2.netlify.app/">this link</a>
 - This is my third project in term of making a responsive website
 - This improved my skill to be more concerned about user interface
 
