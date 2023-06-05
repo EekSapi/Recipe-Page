@@ -1,0 +1,212 @@
+@media screen and (max-width:950px) {
+    body{
+        background-color: #FFFFFF;
+        margin: 25px 12px 0 12px;
+    }
+
+    .desktop{
+        display: none;
+    }
+
+    .requirement{
+        display: none;
+    }
+
+    .mobile{
+        display: inline;
+    }
+    
+    .title{
+        position: relative;
+        margin: 0 0 12px 0;
+    }
+    
+    h1{
+        margin: 0 0 12px 0;
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+    
+        color: #000000;
+    }
+    
+    .sixdot{
+        position: absolute;
+        margin: 5px 0 0 3px;
+    
+    }
+    
+    p{
+        margin: 0 0 0 24px;
+    
+        font-family: 'Montserrat';
+        font-style: italic;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 15px;
+    
+        color: #4F4F4F;
+    }
+    
+    .food{
+        position: relative;
+        margin: 0 0 24px 0;
+        height: 200%;
+        width: 100%;
+    }
+    
+    .indicator{
+        padding: 0 0 0 20px;        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 8px;
+        line-height: 10px;
+        text-transform: uppercase;
+
+        color: #BDBDBD;
+    }
+
+    .properties{
+        padding: 0 0 0 20px;          
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .icon{
+        width: 12px;
+        height: 12px;
+    }
+
+    .req1{
+        margin: 0 0 20px 0;
+    }
+    
+    .req2 {
+        height:100%;
+        width:100%;
+        font-size:0;
+     }
+     
+    #left, #middle, #right {
+        display:inline-block;
+        *display:inline;
+    }
+    
+    #left {
+        width:25%;
+    }
+    
+    #middle {
+        width:35%;
+        margin: 0 0 0 15%;
+    }
+    
+    #right {
+        width:25%;
+    }
+
+    .content{
+        margin: 0 0 30px 0;
+    }
+    
+    .Ingredients{
+        margin: 20px 0 28px 0;
+    }
+    
+    .content-part{
+        position: relative;
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+    
+        color: #333333; 
+    }
+    
+    .ing-title{
+        position: relative;
+        margin: 12px 0 12px 0;
+        font-family: 'Playfair Display';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+    
+        color: #333333; 
+    }
+    
+    .step{
+        position: relative;
+        margin: 30px 0 0 0;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        padding-left: 50px;
+    }
+    
+    .step .number{
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: center;
+    
+        color: #FFFFFF;
+        
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 36px;
+        width: 36px;
+        background-color: #F2994A;;
+        border-radius: 6px;
+    }
+    
+    a { text-decoration: none; color: #BDBDBD }
+    a:visited { text-decoration: none; color: #BDBDBD}
+    a:hover { text-decoration: underline; color: #BDBDBD}
+    a:focus { text-decoration: underline; color: #BDBDBD}
+    a:active { text-decoration: underline; color: #BDBDBD}
+    
+    .source{
+        position: relative;
+        margin-bottom: 120px;
+        font-family: 'Montserrat';
+        font-style: italic;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%; 
+    
+        color: #BDBDBD;
+    }
+    
+    a.ref { text-decoration: none; color: #A9A9A9 }
+    a.ref:visited { text-decoration: none; color: #A9A9A9}
+    a.ref:hover { text-decoration: underline; color: #A9A9A9}
+    a.ref:focus { text-decoration: underline; color: #A9A9A9}
+    a.ref:active { text-decoration: underline; color: #A9A9A9}
+    
+    .watermark{
+        position: relative;
+    
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        margin-bottom: 20px;
+    
+        color: #A9A9A9;
+    }
+}
